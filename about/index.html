@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+<title>About - Blini Plast</title>
+<meta name="description"
+    content="">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+
+<link rel="stylesheet" href="https://bliniplast.netlify.app/css/normalize.css">
+
+<link rel="stylesheet" href="https://bliniplast.netlify.app/css/skeleton.css">
+
+<link rel="stylesheet" href="https://bliniplast.netlify.app/css/custom.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
+
+
+<link rel="shortcut icon" href="/images/favicon.png" type="image/png" />
+
+
+
+</head>
+    <body><nav>
+    <label for="drop" class="toggle"><i class="fas fa-bars u-pull-right" aria-hidden="true"></i> <span><img src="/images/logo.svg">
+            </span></label>
+    <input type="checkbox" id="drop" />
+    <ul class="menu">
+        <li><a href="fb://page/111642443962264"><span><i class="fab fa-facebook" aria-hidden="true"></i>
+                    Blini Plast</span></a></li>
+	<li><a href="instagram://user?username=blini_plast"><span><i class="fab fa-instagram" aria-hidden="true"></i>                                        @blini_plast</span></a></li>
+        
+        <li class="u-pull-right">
+            <a href="https://bliniplast.netlify.app" class="Members">
+                <span><i class='fas fa-list'></i> Sherbimet tona</span>
+            </a>
+        </li>
+        
+        <li class="u-pull-right">
+            <a href="https://bliniplast.netlify.app/about" class="Members">
+                <span><i class='fas fa-home'></i> rreth nesh</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+<div class="section hero">
+    <div class="container">
+        <h1 class="section-heading">About</h1>
+        
+        
+        
+        <i class="far fa-calendar"></i> Published On: 2020-04-23,
+        <i class="far fa-clock"></i> Reading Time: 1 minute
+        </h6>
+    </div>
+</div>
+
+<div class="section main">
+    <div class="row content">
+        <article>
+            <head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+<style>
+#map { height: 250px; }
+</style>
+</head>
+<h5 style="font-size=140%">Blini Plast vepron n&euml; Kosov&euml; nga viti 2010, me provoj&euml;n ton&euml; ju sigurojm n&euml; cil&euml;si dhe garancion p&euml;r produktet tona.</br> Blini Plast b&euml;n prodhimin e dyerve dhe dritareve nga PVC dhe alumini, Roletave si dhe montimin e Gilinderave</h5></br>
+<h5>Gjindemi n&euml; Rr. Sk&euml;nderbeu, Suharek&euml;</h5>
+<div id='map'></div>
+<script>
+const cordinates = [42.357932, 20.803534];
+var mymap = L.map('map').setView([42.357932, 20.803534], 14);
+tiles = L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=5IPCv81gWfAqhE0pYzQ0', {
+attribution:'<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'});
+tiles.addTo(mymap);
+var marker = L.marker([42.357932, 20.803534]).addTo(mymap);
+</script>
+
+            
+        </article>
+    </div>
+</div>
+
+<footer>
+    <span class="copyright">
+         &copy; 2020 
+        <a href="https://fb.com/bliniplast" title="hugo-sugoi" alt="hugo-sugoi" target="_blank">Blini Plast</a>
+    </span>
+</footer>
+</body>
+</html>

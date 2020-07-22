@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fasade on Blini Plast</title>
+    <link>https://bliniplast.netlify.app/tags/fasade/</link>
+    <description>Recent content in Fasade on Blini Plast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://bliniplast.netlify.app/tags/fasade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dyer dhe dritare</title>
+      <link>https://bliniplast.netlify.app/english/blog/blog-post-3/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://bliniplast.netlify.app/english/blog/blog-post-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fasade Gjysemstrukturale</title>
+      <link>https://bliniplast.netlify.app/english/blog/blog-post-1/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://bliniplast.netlify.app/english/blog/blog-post-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gilindera</title>
+      <link>https://bliniplast.netlify.app/english/blog/blog-post-2/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://bliniplast.netlify.app/english/blog/blog-post-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

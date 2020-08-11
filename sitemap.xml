@@ -1,131 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/about/</loc>
-    <lastmod>2020-04-23T19:57:09+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/faq/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/tags/dritare/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/tags/dyer/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/tags/fasade/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/tags/pvc/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/author/john-doe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/author/mark-dinn/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/pricing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/project/rio-furniture-1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/project/rio-furniture-2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/project/rio-furniture-3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/project/rio-furniture-4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/project/rio-furniture-5/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/project/rio-furniture-6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bliniplast.netlify.app/english/service/</loc>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.bliniplast.tk/</loc>
+  <lastmod>2020-08-11T17:47:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.bliniplast.tk/english/blog/blog-post-3/</loc>
+  <lastmod>2020-08-11T17:47:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bliniplast.tk/categories/</loc>
+  <lastmod>2020-08-11T17:47:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bliniplast.tk/english/blog/blog-post-1/</loc>
+  <lastmod>2020-08-11T17:47:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bliniplast.tk/english/blog/blog-post-2/</loc>
+  <lastmod>2020-08-11T17:47:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bliniplast.tk/english/blog/blog-post-4/</loc>
+  <lastmod>2020-08-11T17:47:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
